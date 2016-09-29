@@ -1,10 +1,6 @@
 ---
-layout: page
-subheadline: Health
+layout: post
 title:  "Ginger: A natural alternative to aspirin"
-teaser: "Many doctors tell their patients to take an aspirin a day to prevent heart disease. It’s become such an accepted practice that I see patients in my clinic who started taking it on their own just because they figured it was a good idea."
-meta_teaser: ""
-breadcrumb: true
 categories:
     - Health
 tags:
