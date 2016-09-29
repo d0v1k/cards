@@ -8,11 +8,6 @@ tags:
     - ginger
     - natural
     - aspirin
-image:
-    title: health/ginger.jpg
-    thumb: health/ginger-thumb.jpg
-    caption:
-    caption_url:
 author: Enki
 ---
 
