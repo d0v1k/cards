@@ -1,14 +1,10 @@
 ---
 layout: post
 title:  "Ginger: A natural alternative to aspirin"
-categories:
-    - Health
-tags:
-    - health
-    - ginger
-    - natural
-    - aspirin
-author: Enki
+date:   2016-06-13 10:51:47 +0530
+categories: jekyll update
+img: image-1.png
+categories: [Health]
 ---
 
 I tell them to stop. Don’t get me wrong – aspirin is one of the safest over-the-counter drugs out there. But, you’ll need to know more to make an educated decision.
